@@ -1,8 +1,7 @@
 # PEC3_Manovich_Reloaded
 
 #### Manuel Jesús Ponferrada López
-#### Cultura Digital - PEC 3 
-#### Grado Multimedia
+#### Cultura Digital - Grado Multimedia
 #### Universitat Oberta de Catalunya
 
 ---
@@ -73,3 +72,13 @@ El Nest Hello Video Doorbell es un ejemplo destacado de cómo la tecnología pue
 
 ## REFLEXIÓN FINAL
 La hibridación tecnológica, como se observa en Cisco Packet Tracer y Nest Hello Video Doorbell, muestra cómo el software y la tecnología avanzada pueden transformar y enriquecer tanto la educación como la seguridad del hogar. Estos productos no solo cumplen funciones prácticas sino que también abren nuevas posibilidades para la interacción humana y la gestión de nuestro entorno cotidiano. Este ensayo subraya la continuación del diálogo iniciado por Manovich, demostrando que el software no solo "toma el mando", sino que también facilita nuevas formas de vivir, aprender y interactuar en un mundo cada vez más digitalizado.
+
+---
+## BIBLIOGRAFÍA
+1.	Manovich, Lev. (2013). El software toma el mando. Editorial UOC. 
+2.	Manovich, Lev. (2013). ¿Qué son los nuevos medios?. Editorial UOC.   
+3.	Manovich, L. (2013). El software toma el mando. Editorial UOC. 
+4.	Cisco. (n.d.). Cisco Packet Tracer. <https://www.netacad.com/es/cisco-packet-tracer>
+5.	Google Nest. (n.d.). Nest Hello Video Doorbell. <https://store.google.com/product/nest_hello_doorbell>
+
+

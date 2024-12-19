@@ -37,3 +37,9 @@ Cisco Packet Tracer ha desempeñado un papel crucial en democratizar el acceso a
 #### Integración en Programas Educativos Globales
 El software se integra a la perfección en los programas de la Cisco Networking Academy, que ofrecen cursos en línea y presenciales en más de 180 países. Packet Tracer permite a los estudiantes practicar y aplicar sus conocimientos teóricos en un entorno práctico y recibir retroalimentación inmediata sobre su desempeño, facilitando un aprendizaje más efectivo y dinámico.
 
+###IMPACTO
+El impacto de Cisco Packet Tracer en la educación de redes es significativo. No solo ha transformado la manera en que los estudiantes aprenden sobre redes, sino que también ha influido en la metodología de enseñanza en las instituciones educativas. La capacidad de simular una variedad de entornos de red ha permitido a los estudiantes entender mejor y prepararse para los desafíos del mundo real en el ámbito de las TI, aumentando sus oportunidades de empleo y éxito profesional.
+
+###CONCLUSIÓN
+Cisco Packet Tracer es un ejemplo paradigmático de cómo la hibridación entre la educación y la tecnología puede resultar en herramientas que no solo complementan, sino que mejoran y expanden las oportunidades de aprendizaje. Al ofrecer un entorno de simulación accesible y detallado, Packet Tracer cumple con los ideales de una educación inclusiva y de alta calidad. Este producto demuestra el poder de la tecnología para transformar y enriquecer la educación, haciendo eco de los temas de hibridación cultural y tecnológica discutidos en el libro de Manovich.
+

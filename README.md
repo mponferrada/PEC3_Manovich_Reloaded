@@ -6,11 +6,11 @@
 
 ---
 
-## **HIBRIDACIÓN MODERNA EN LA TECNOLOGÍA:** MÁS ALLÁ DEL SOFTWARE
+## HIBRIDACIÓN MODERNA EN LA TECNOLOGÍA: MÁS ALLÁ DEL SOFTWARE
 
 Actualmente, la fusión de tecnología con aspectos cotidianos de la vida ha transformado drásticamente cómo interactuamos con nuestro alrededor. Lev Manovich, en "El software toma el mando", explora cómo el software se ha integrado en diversas facetas de la cultura y la sociedad, convirtiéndose en el motor principal de su evolución. Este informe trata dos productos modernos, **Cisco Packet Tracer** y **Nest Hello Video Doorbell**, ejemplificando la hibridación de la tecnología con la educación y la seguridad del hogar, respectivamente, y reflejando cómo estas tecnologías cambian nuestra interacción con el mundo, transformándonos de meros espectadores a participantes activos en la creación y manipulación de nuestro entorno digital.
 
-La hibridación, según Manovich, es el proceso donde diferentes medios y tecnologías se combinan gracias al software para crear algo completamente nuevo. Este no es solo una mezcla de medios tradicionales como texto, imagen y sonido; más bien, el software permite que estos elementos se transformen y entrelacen de maneras que cambian cómo los experimentamos y usamos.
+La hibridación, según Manovich, *"es el proceso donde diferentes medios y tecnologías se combinan gracias al software para crear algo completamente nuevo"*. Este no es solo una mezcla de medios tradicionales como texto, imagen y sonido; más bien, el software permite que estos elementos se transformen y entrelacen de maneras que cambian cómo los experimentamos y usamos.
 En otras palabras, el software toma elementos de diferentes medios y los mezcla para crear nuevas formas de medios que no podríamos tener sin la tecnología. Esto cambia cómo interactuamos con ellos, dándonos más control y nuevas formas de explorar y manipular la información.
 
 ---
@@ -20,7 +20,7 @@ En otras palabras, el software toma elementos de diferentes medios y los mezcla 
 
 ### INTRODUCIÓN
 
-Manovich habla de cómo “el software se convierte en el principal motor de la evolución en el espacio de los medios” (Manovich, 2013). Esta idea se refleja claramente en Cisco Packet Tracer, una herramienta que transforma el aprendizaje de las redes informáticas. Cisco Packet Tracer es un innovador software de simulación de redes desarrollado por Cisco Systems. Diseñado principalmente como una herramienta educativa, permite a estudiantes y profesionales experimentar con configuraciones de red en un entorno simulado sin la necesidad de hardware de red físico. Esta capacidad hace de Packet Tracer una herramienta indispensable en el aprendizaje y enseñanza de conceptos de redes, ofreciendo una plataforma accesible y versátil para el desarrollo de habilidades esenciales en el campo de las Tecnologías de la Información (TI).
+Manovich habla de cómo *“el software se convierte en el principal motor de la evolución en el espacio de los medios”* (Manovich, 2013). Esta idea se refleja claramente en Cisco Packet Tracer, una herramienta que transforma el aprendizaje de las redes informáticas. Cisco Packet Tracer es un innovador software de simulación de redes desarrollado por Cisco Systems. Diseñado principalmente como una herramienta educativa, permite a estudiantes y profesionales experimentar con configuraciones de red en un entorno simulado sin la necesidad de hardware de red físico. Esta capacidad hace de Packet Tracer una herramienta indispensable en el aprendizaje y enseñanza de conceptos de redes, ofreciendo una plataforma accesible y versátil para el desarrollo de habilidades esenciales en el campo de las Tecnologías de la Información (TI).
 
 ### DESARROLLO: HIBRIDACIÓN DE EDUCACIÓN Y TECNOLOGÍA
 
@@ -42,7 +42,7 @@ El impacto de Cisco Packet Tracer en la educación de redes es significativo. No
 ### CONCLUSIÓN
 Cisco Packet Tracer es un ejemplo paradigmático de cómo la hibridación entre la educación y la tecnología puede resultar en herramientas que no solo complementan, sino que mejoran y expanden las oportunidades de aprendizaje. Al ofrecer un entorno de simulación accesible y detallado, Packet Tracer cumple con los ideales de una educación inclusiva y de alta calidad. Este producto demuestra el poder de la tecnología para transformar y enriquecer la educación, haciendo eco de los temas de hibridación cultural y tecnológica discutidos en el libro de Manovich.
 
-Vídeo definición y ejemplo de uso de **Cisco Packet Tracer** <https://www.youtube.com/watch?v=juTsxRopSbo>
+🎥 Vídeo definición y ejemplo de uso de **Cisco Packet Tracer** <https://www.youtube.com/watch?v=juTsxRopSbo>
 
 ---
 
@@ -51,7 +51,7 @@ Vídeo definición y ejemplo de uso de **Cisco Packet Tracer** <https://www.yout
 
 ### INTRODUCCIÓN
 
-Como Manovich señala, “la hibridación cultural es el resultado lógico de la era digital” (Manovich, 2013). El Nest Hello Video Doorbell ilustra esta hibridación al combinar la seguridad del hogar con la inteligencia artificial y la interactividad del Internet de las cosas. Nest Hello Video Doorbell es un producto que fusiona la comodidad del hogar inteligente con tecnología avanzada de seguridad. Este timbre inteligente de la compañía Nest, ahora parte de Google, combina video en tiempo real, comunicación bidireccional y reconocimiento facial avanzado para ofrecer una experiencia de seguridad más completa y proactiva a los usuarios. Al integrar estas tecnologías, Nest Hello no solo mejora la seguridad del hogar, sino que también eleva la interacción del usuario con su entorno doméstico.
+Como Manovich señala, *“la hibridación cultural es el resultado lógico de la era digital”* (Manovich, 2013). El Nest Hello Video Doorbell ilustra esta hibridación al combinar la seguridad del hogar con la inteligencia artificial y la interactividad del Internet de las cosas. Nest Hello Video Doorbell es un producto que fusiona la comodidad del hogar inteligente con tecnología avanzada de seguridad. Este timbre inteligente de la compañía Nest, ahora parte de Google, combina video en tiempo real, comunicación bidireccional y reconocimiento facial avanzado para ofrecer una experiencia de seguridad más completa y proactiva a los usuarios. Al integrar estas tecnologías, Nest Hello no solo mejora la seguridad del hogar, sino que también eleva la interacción del usuario con su entorno doméstico.
 
 ### DESARROLLO: HIBRIDACIÓN DE SEGURIDAD Y TECNOLOGÍA AVANZADA
 
@@ -70,7 +70,7 @@ El impacto del Nest Hello Video Doorbell se extiende más allá de la mera segur
 ### CONCLUSIÓN
 El Nest Hello Video Doorbell es un ejemplo destacado de cómo la tecnología puede integrarse en la vida cotidiana para mejorar la seguridad y la interacción humana con los espacios habitados. A través de la hibridación de tecnología de reconocimiento facial, video en tiempo real y la infraestructura del hogar inteligente, Nest Hello muestra el potencial transformador de los dispositivos inteligentes en el hogar moderno, alineándose con los conceptos discutidos por Manovich sobre la influencia del software en la cultura y la tecnología.
 
-Vídeo configuración y demostración de uso de **Nest Doorbell**: <https://www.youtube.com/watch?v=rQQVU-zQvoU>
+🎥 Vídeo configuración y demostración de uso de **Nest Doorbell**: <https://www.youtube.com/watch?v=rQQVU-zQvoU>
 
 ---
 
@@ -82,7 +82,7 @@ La hibridación tecnológica, como se observa en Cisco Packet Tracer y Nest Hell
 1.	Manovich, Lev. (2013). El software toma el mando. Editorial UOC. 
 2.	Manovich, Lev. (2013). ¿Qué son los nuevos medios?. Editorial UOC.   
 3.	Manovich, L. (2013). El software toma el mando. Editorial UOC. 
-4.	Cisco. (n.d.). Cisco Packet Tracer. <https://www.netacad.com/es/cisco-packet-tracer>
-5.	Google Nest. (n.d.). Nest Hello Video Doorbell. <https://store.google.com/product/nest_hello_doorbell>
+4.	Cisco. Cisco Packet Tracer. <https://www.netacad.com/es/cisco-packet-tracer>
+5.	Google Nest. Nest Hello Video Doorbell. <https://store.google.com/product/nest_hello_doorbell>
 
 

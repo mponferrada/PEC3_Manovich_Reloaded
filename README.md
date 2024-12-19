@@ -17,6 +17,7 @@ En otras palabras, el software toma elementos de diferentes medios y los mezcla 
 ---
 
 ## **CISCO PACKET TRACER:** UN PILAR EN LA EDUCACIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN
+!(https://www.netacad.com/webpages/courses/70d46a4c-f42b-4085-855d-1f2f3fe1aeca/content/es-XL/assets/9968e7c33ce3465d9c537504f084ae4a.webp)
 
 ##### INTRODUCIÓN
 

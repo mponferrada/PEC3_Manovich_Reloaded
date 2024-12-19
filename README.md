@@ -42,6 +42,8 @@ El impacto de Cisco Packet Tracer en la educación de redes es significativo. No
 ### CONCLUSIÓN
 Cisco Packet Tracer es un ejemplo paradigmático de cómo la hibridación entre la educación y la tecnología puede resultar en herramientas que no solo complementan, sino que mejoran y expanden las oportunidades de aprendizaje. Al ofrecer un entorno de simulación accesible y detallado, Packet Tracer cumple con los ideales de una educación inclusiva y de alta calidad. Este producto demuestra el poder de la tecnología para transformar y enriquecer la educación, haciendo eco de los temas de hibridación cultural y tecnológica discutidos en el libro de Manovich.
 
+Vídeo definición y ejemplo de uso de **Cisco Packet Tracer** <https://www.youtube.com/watch?v=juTsxRopSbo>
+
 ---
 
 ## HELLO DOORBELL: REVOLUCIONANDO LA SEGURIDAD DEL HOGAR
@@ -67,6 +69,8 @@ El impacto del Nest Hello Video Doorbell se extiende más allá de la mera segur
 
 ### CONCLUSIÓN
 El Nest Hello Video Doorbell es un ejemplo destacado de cómo la tecnología puede integrarse en la vida cotidiana para mejorar la seguridad y la interacción humana con los espacios habitados. A través de la hibridación de tecnología de reconocimiento facial, video en tiempo real y la infraestructura del hogar inteligente, Nest Hello muestra el potencial transformador de los dispositivos inteligentes en el hogar moderno, alineándose con los conceptos discutidos por Manovich sobre la influencia del software en la cultura y la tecnología.
+
+Vídeo configuración y demostración de uso de **Nest Doorbell**: <https://www.youtube.com/watch?v=rQQVU-zQvoU>
 
 ---
 

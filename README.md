@@ -46,7 +46,7 @@ Cisco Packet Tracer es un ejemplo paradigmático de cómo la hibridación entre 
 
 ---
 
-## HELLO DOORBELL: REVOLUCIONANDO LA SEGURIDAD DEL HOGAR
+## NEST HELLO VIDEO DOORBELL: REVOLUCIONANDO LA SEGURIDAD DEL HOGAR
 ![Hello Doorbell](https://github.com/mponferrada/PEC3_Manovich_Reloaded/blob/main/Hello-Doorbell.jpg)
 
 ### INTRODUCCIÓN
@@ -70,7 +70,7 @@ El impacto del Nest Hello Video Doorbell se extiende más allá de la mera segur
 ### CONCLUSIÓN
 El Nest Hello Video Doorbell es un ejemplo destacado de cómo la tecnología puede integrarse en la vida cotidiana para mejorar la seguridad y la interacción humana con los espacios habitados. A través de la hibridación de tecnología de reconocimiento facial, video en tiempo real y la infraestructura del hogar inteligente, Nest Hello muestra el potencial transformador de los dispositivos inteligentes en el hogar moderno, alineándose con los conceptos discutidos por Manovich sobre la influencia del software en la cultura y la tecnología.
 
-🎥 Vídeo configuración y demostración de uso de **Nest Doorbell**: <https://www.youtube.com/watch?v=rQQVU-zQvoU>
+🎥 Vídeo configuración y demostración de uso de **Nest Hello Video Doorbell**: <https://www.youtube.com/watch?v=rQQVU-zQvoU>
 
 ---
 

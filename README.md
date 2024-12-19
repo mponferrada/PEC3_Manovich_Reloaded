@@ -17,7 +17,7 @@ En otras palabras, el software toma elementos de diferentes medios y los mezcla 
 ---
 
 ## **CISCO PACKET TRACER:** UN PILAR EN LA EDUCACIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN
-![Cisco Packet Tracer](https://github.com/mponferrada/PEC3_Manovich_Reloaded/blob/main/cisco-packet-tracer.jpeg)
+![Cisco Packet Tracer](https://github.com/mponferrada/PEC3_Manovich_Reloaded/blob/main/cisco-packet-tracer.jpg)
 
 ### INTRODUCIÓN
 
